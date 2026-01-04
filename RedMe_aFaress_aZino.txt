@@ -1,0 +1,8 @@
+parti code :
+note.ipynb  (run all) -> Zai.ipynb (run all)
+
+parti gephi :
+
+ki thal gephi khayar open wa mba3d 5ayar fichi li f dosse gephi 
+morah lhabit tstkchaf roh parti static wa dir run rir lhwayj lnhtajohm
+lhwayj lnhtajohm n3rfoham gol lchatgpt ykolhamlk
